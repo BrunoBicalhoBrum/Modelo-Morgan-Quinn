@@ -1,0 +1,57 @@
+body {
+	background: #00FFFF	url('Imagens/fundo.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	max-width: 900px;
+	margin: 0 auto /* margem automatico para direita e esquerda*/
+
+
+}
+
+#menu {
+	text-align: center;
+	background: #2D628A;
+	border: 1px solid white;
+	padding: 18px;
+}
+
+#conteudo {
+	background: #ADD8E6;
+	padding: 20px;
+}
+
+#rodape {
+	background:#2D628A;
+	padding: 10px;
+	text-align: center;
+}
+
+a {
+	color:white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 15px;
+}
+
+ h1 {
+ 	color:#000080;
+ 	font-size: 1.2em;
+ }
+
+ .fotos{
+ 	border: 10px solid white;
+ 	width: 500px;
+ 	border-radius: 10px;
+
+
+ }
+
+ .infos {
+ 	background: #ADD8E6;
+	padding: 20px;
+	text-align: center;
+ }
+
+
